@@ -1,4 +1,3 @@
-```markdown
 # [Topic Name]
 
 ## Overview
@@ -17,15 +16,16 @@
 * [e.g., Cisco IOS version 15.2 or later]
 
 ## Configuration
+
 ```text
 ! [Device Name, e.g., R1] Configuration
 enable
 configure terminal
 ! [Insert exact configuration commands below]
+
 ```
 
 ## Configuration Explanation
-
 * `[command 1]` - [Explain what this specific command actually does in plain English.]
 * `[command 2]` - [Explain what this specific command actually does.]
 
@@ -34,28 +34,19 @@ configure terminal
 ```text
 Device# show [command]
 ```
-
 [Briefly explain what specific fields or keywords to look for in the output to confirm the configuration is successful.]
 
 ## Common Mistakes
-
 * **[Mistake 1]:** [Why it happens and how to avoid it, e.g., Forgetting to save the configuration or mismatched subnet masks.]
 * **[Mistake 2]:** [Why it happens and how to avoid it.]
 
 ## Troubleshooting
-
 1. [Step 1: Check the basics, e.g., Verify interface status with `show ip interface brief`]
 2. [Step 2: Check the specific technology, e.g., Verify routing table or adjacency]
 
 ## Best Practices
-
 * [Enterprise-grade recommendation 1, e.g., Always use SSH instead of Telnet]
 * [Enterprise-grade recommendation 2]
 
 ## References
-
 * [Link to official Cisco configuration guide, command reference, or relevant RFC]
-
-```
-
-```
