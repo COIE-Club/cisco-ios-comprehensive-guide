@@ -1,3 +1,4 @@
+
 # Contributing to the Cisco IOS Comprehensive Guide
 
 First off, thank you for considering contributing to the **Cisco IOS Comprehensive Guide**! This project is community-driven, and we rely on network engineers and students like you to make this the best, most practical Cisco IOS reference on the internet.
@@ -43,6 +44,7 @@ When you are ready to submit:
 2. Ensure you have included the lab file and the topology screenshot in the topic folder.
 3. Open a Pull Request and fill out the template. Include the phrase `Closes #[Issue Number]` so GitHub automatically links your PR to your original claim issue.
 
-Thank you again.
 ## 6. Questions and Discussions
 If you are stuck, need clarification on a topic, or want to discuss a new idea, please use the **GitHub Discussions** tab. We are happy to help you get your contribution over the finish line!
+
+Thank you again.
