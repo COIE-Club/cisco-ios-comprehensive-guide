@@ -1,3 +1,6 @@
+>[!NOTE]
+>You do not have to use all of these sections. But, you have to stick with this order.
+
 # [Topic Name]
 
 ## Overview
