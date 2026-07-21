@@ -1,3 +1,4 @@
+
 # Contributing to the Cisco IOS Comprehensive Guide
 
 First off, thank you for considering contributing to the **Cisco IOS Comprehensive Guide**! This project is community-driven, and we rely on network engineers and students like you to make this the best, most practical Cisco IOS reference on the internet.
@@ -46,4 +47,4 @@ When you are ready to submit:
 ## 6. Questions and Discussions
 If you are stuck, need clarification on a topic, or want to discuss a new idea, please use the **GitHub Discussions** tab. We are happy to help you get your contribution over the finish line!
 
-Once again, thank you for helping us build the ultimate networking cookbook!
+Thank you again.
