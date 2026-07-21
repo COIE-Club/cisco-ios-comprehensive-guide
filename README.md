@@ -61,16 +61,16 @@ Every topic lives in its own self-contained folder — guide, topology image, an
 
 | # | Stage | # | Stage |
 |---|---|---|---|
-| 01 | [Device Basics](https://github.com/COIE-Club/cisco-ios-comprehensive-guide/tree/main/Cisco%20IOS%20Comprehensive%20Guide/01-Device-Basics) | 11 | [First Hop & Multicast](structure.md#11-first-hop-and-multicast) |
-| 02 | [Interface Configuration](https://github.com/COIE-Club/cisco-ios-comprehensive-guide/tree/main/Cisco%20IOS%20Comprehensive%20Guide/02-Interface-Configuration) | 12 | [QoS](structure.md#12-qos) |
-| 03 | [Layer 2 Switching](https://github.com/COIE-Club/cisco-ios-comprehensive-guide/tree/main/Cisco%20IOS%20Comprehensive%20Guide/03-Layer-2-Switching) | 13 | [Security](structure.md#13-security) |
-| 04 | [Spanning Tree](structure.md#04-spanning-tree) | 14 | [Infrastructure Services](structure.md#14-infrastructure-services) |
-| 05 | [IP Routing](structure.md#05-ip-routing) | 15 | [Virtualization](structure.md#15-virtualization) |
-| 06 | [Dynamic Routing](structure.md#06-dynamic-routing) | 16 | [IPv6](structure.md#16-ipv6) |
-| 07 | [Route Control](structure.md#07-route-control) | 17 | [WAN](structure.md#17-wan) |
-| 08 | [NAT Services](structure.md#08-nat-services) | 18 | [Automation](structure.md#18-automation) |
-| 09 | [DHCP & Address Services](structure.md#09-dhcp-and-address-services) | 19 | [Monitoring & Troubleshooting](structure.md#19-monitoring-and-troubleshooting) |
-| 10 | [High Availability](structure.md#10-high-availability) | 20 | [Enterprise Labs](structure.md#20-enterprise-labs) |
+| 01 | [Device Basics](https://github.com/COIE-Club/cisco-ios-comprehensive-guide/tree/main/Cisco%20IOS%20Comprehensive%20Guide/01-Device-Basics) | 11 | [First Hop & Multicast](https://github.com/COIE-Club/cisco-ios-comprehensive-guide/tree/main/Cisco%20IOS%20Comprehensive%20Guide/11-First-Hop-and-Multicast) |
+| 02 | [Interface Configuration](https://github.com/COIE-Club/cisco-ios-comprehensive-guide/tree/main/Cisco%20IOS%20Comprehensive%20Guide/02-Interface-Configuration) | 12 | [QoS](https://github.com/COIE-Club/cisco-ios-comprehensive-guide/tree/main/Cisco%20IOS%20Comprehensive%20Guide/12-QoS/12-QoS) |
+| 03 | [Layer 2 Switching](https://github.com/COIE-Club/cisco-ios-comprehensive-guide/tree/main/Cisco%20IOS%20Comprehensive%20Guide/03-Layer-2-Switching) | 13 | [Security](https://github.com/COIE-Club/cisco-ios-comprehensive-guide/tree/main/Cisco%20IOS%20Comprehensive%20Guide/13-Security) |
+| 04 | [Spanning Tree](https://github.com/COIE-Club/cisco-ios-comprehensive-guide/tree/main/Cisco%20IOS%20Comprehensive%20Guide/04-Spanning-Tree) | 14 | [Infrastructure Services](https://github.com/COIE-Club/cisco-ios-comprehensive-guide/tree/main/Cisco%20IOS%20Comprehensive%20Guide/14-Infrastructure-Services) |
+| 05 | [IP Routing](https://github.com/COIE-Club/cisco-ios-comprehensive-guide/tree/main/Cisco%20IOS%20Comprehensive%20Guide/05-IP-Routing) | 15 | [Virtualization]() |
+| 06 | [Dynamic Routing](https://github.com/COIE-Club/cisco-ios-comprehensive-guide/tree/main/Cisco%20IOS%20Comprehensive%20Guide/06-Dynamic-Routing) | 16 | [IPv6](https://github.com/COIE-Club/cisco-ios-comprehensive-guide/tree/main/Cisco%20IOS%20Comprehensive%20Guide/16-IPv6/16-IPv6) |
+| 07 | [Route Control](https://github.com/COIE-Club/cisco-ios-comprehensive-guide/tree/main/Cisco%20IOS%20Comprehensive%20Guide/07-Route-Control) | 17 | [WAN](https://github.com/COIE-Club/cisco-ios-comprehensive-guide/tree/main/Cisco%20IOS%20Comprehensive%20Guide/17-WAN) |
+| 08 | [NAT Services](https://github.com/COIE-Club/cisco-ios-comprehensive-guide/tree/main/Cisco%20IOS%20Comprehensive%20Guide/08-NAT-Services) | 18 | [Automation](https://github.com/COIE-Club/cisco-ios-comprehensive-guide/tree/main/Cisco%20IOS%20Comprehensive%20Guide/18-Automation) |
+| 09 | [DHCP & Address Services](https://github.com/COIE-Club/cisco-ios-comprehensive-guide/tree/main/Cisco%20IOS%20Comprehensive%20Guide/09-DHCP-and-Address-Services) | 19 | [Monitoring & Troubleshooting](https://github.com/COIE-Club/cisco-ios-comprehensive-guide/tree/main/Cisco%20IOS%20Comprehensive%20Guide/19-Monitoring-and-Troubleshooting) |
+| 10 | [High Availability](https://github.com/COIE-Club/cisco-ios-comprehensive-guide/tree/main/Cisco%20IOS%20Comprehensive%20Guide/10-High-Availability) | 20 | [Enterprise Labs](https://github.com/COIE-Club/cisco-ios-comprehensive-guide/tree/main/Cisco%20IOS%20Comprehensive%20Guide/20-Enterprise-Labs) |
 
 ## Contributing in three steps
 
