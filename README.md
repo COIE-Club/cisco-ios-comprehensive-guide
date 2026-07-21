@@ -62,8 +62,8 @@ Every topic lives in its own self-contained folder — guide, topology image, an
 | # | Stage | # | Stage |
 |---|---|---|---|
 | 01 | [Device Basics](https://github.com/COIE-Club/cisco-ios-comprehensive-guide/tree/main/Cisco%20IOS%20Comprehensive%20Guide/01-Device-Basics) | 11 | [First Hop & Multicast](structure.md#11-first-hop-and-multicast) |
-| 02 | [Interface Configuration](structure.md#02-interface-configuration) | 12 | [QoS](structure.md#12-qos) |
-| 03 | [Layer 2 Switching](structure.md#03-layer-2-switching) | 13 | [Security](structure.md#13-security) |
+| 02 | [Interface Configuration](https://github.com/COIE-Club/cisco-ios-comprehensive-guide/tree/main/Cisco%20IOS%20Comprehensive%20Guide/02-Interface-Configuration) | 12 | [QoS](structure.md#12-qos) |
+| 03 | [Layer 2 Switching](https://github.com/COIE-Club/cisco-ios-comprehensive-guide/tree/main/Cisco%20IOS%20Comprehensive%20Guide/03-Layer-2-Switching) | 13 | [Security](structure.md#13-security) |
 | 04 | [Spanning Tree](structure.md#04-spanning-tree) | 14 | [Infrastructure Services](structure.md#14-infrastructure-services) |
 | 05 | [IP Routing](structure.md#05-ip-routing) | 15 | [Virtualization](structure.md#15-virtualization) |
 | 06 | [Dynamic Routing](structure.md#06-dynamic-routing) | 16 | [IPv6](structure.md#16-ipv6) |
